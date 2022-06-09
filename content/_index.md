@@ -1,5 +1,5 @@
 ---
-title: ✍️ johannes_lotz
+title: 🔬 johannes_lotz
 type: book # Do not modify.
 toc: false
 
